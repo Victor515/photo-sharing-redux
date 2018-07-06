@@ -1,6 +1,6 @@
-# Learn Redux
+# photo-sharing-redux
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+A simple React + Redux implementation of photo sharing platform. Built when I learnt this video [tutorial](https://learnredux.com/) by [Wes Bos](https://twitter.com/wesbos).
 
 ## Running
 
